@@ -1,0 +1,22 @@
+{
+  "name": "advanced-web-automation",
+  "version": "1.0.0",
+  "description": "Advanced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oadelua/Advanced-Web-Automation.git"
+  },
+  "author": "Tobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oadelua/Advanced-Web-Automation/issues"
+  },
+  "homepage": "https://github.com/oadelua/Advanced-Web-Automation#readme",
+  "dependencies": {
+    "cypress": "^13.6.5"
+  }
+}
